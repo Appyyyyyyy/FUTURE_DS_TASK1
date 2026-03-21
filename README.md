@@ -32,3 +32,8 @@ This project demonstrates business sales analysis using **Excel** and **Python**
 ## Future Work
 - Integrate **Power BI dashboards** for interactive visualizations  
 - Expand analysis to include customer segmentation and predictive modeling
+
+  ## Author
+*Arpita Haldar*  
+- Chemical Engineering Student  
+- Data Analysis Enthusiast
